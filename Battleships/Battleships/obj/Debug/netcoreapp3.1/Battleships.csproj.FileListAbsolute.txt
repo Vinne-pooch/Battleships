@@ -1,0 +1,13 @@
+C:\Users\Dmitry\OneDrive - LeverX\Documents\My Web Sites\Battleships\Battleships\bin\Debug\netcoreapp3.1\Battleships.exe
+C:\Users\Dmitry\OneDrive - LeverX\Documents\My Web Sites\Battleships\Battleships\bin\Debug\netcoreapp3.1\Battleships.deps.json
+C:\Users\Dmitry\OneDrive - LeverX\Documents\My Web Sites\Battleships\Battleships\bin\Debug\netcoreapp3.1\Battleships.runtimeconfig.json
+C:\Users\Dmitry\OneDrive - LeverX\Documents\My Web Sites\Battleships\Battleships\bin\Debug\netcoreapp3.1\Battleships.runtimeconfig.dev.json
+C:\Users\Dmitry\OneDrive - LeverX\Documents\My Web Sites\Battleships\Battleships\bin\Debug\netcoreapp3.1\Battleships.dll
+C:\Users\Dmitry\OneDrive - LeverX\Documents\My Web Sites\Battleships\Battleships\bin\Debug\netcoreapp3.1\Battleships.pdb
+C:\Users\Dmitry\OneDrive - LeverX\Documents\My Web Sites\Battleships\Battleships\obj\Debug\netcoreapp3.1\Battleships.csprojAssemblyReference.cache
+C:\Users\Dmitry\OneDrive - LeverX\Documents\My Web Sites\Battleships\Battleships\obj\Debug\netcoreapp3.1\Battleships.AssemblyInfoInputs.cache
+C:\Users\Dmitry\OneDrive - LeverX\Documents\My Web Sites\Battleships\Battleships\obj\Debug\netcoreapp3.1\Battleships.AssemblyInfo.cs
+C:\Users\Dmitry\OneDrive - LeverX\Documents\My Web Sites\Battleships\Battleships\obj\Debug\netcoreapp3.1\Battleships.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\OneDrive - LeverX\Documents\My Web Sites\Battleships\Battleships\obj\Debug\netcoreapp3.1\Battleships.dll
+C:\Users\Dmitry\OneDrive - LeverX\Documents\My Web Sites\Battleships\Battleships\obj\Debug\netcoreapp3.1\Battleships.pdb
+C:\Users\Dmitry\OneDrive - LeverX\Documents\My Web Sites\Battleships\Battleships\obj\Debug\netcoreapp3.1\Battleships.genruntimeconfig.cache
